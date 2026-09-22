@@ -13,4 +13,3 @@ Most of that work lives in private company repositories, so this profile is most
 Happy to walk through the production code on a call.
 
 - LinkedIn: https://linkedin.com/in/maksym-omelchuk
-- Before software: 11 years at sea, Chief Officer on heavy-lift vessels.
